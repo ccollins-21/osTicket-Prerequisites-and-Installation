@@ -72,7 +72,7 @@ Once those have installed I will create a PHP directory on the C drive:  <br/>
 <img src="https://imgur.com/CEsoJp6.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
-Now I'll download PHP:  <br/>
+Now I'll download PHP and extract the zip file in the PHP directory I just made:  <br/>
 <img src="https://imgur.com/LoYw0cZ.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
