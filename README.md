@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://i.imgur.com/wURMIsq.jpeg" height="80%" width="80%" alt="Setting Up in Azure"/>
+<br />
+
 <h1>osTicket: Prerequisites and Installation</h1>
 
  ### [YouTube Demonstration](https://www.youtube.com) Coming Soon.
