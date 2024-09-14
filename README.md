@@ -4,7 +4,7 @@
 
 <h1>osTicket: Prerequisites and Installation</h1>
 
- ### [YouTube Demonstration](https://www.youtube.com) Coming Soon.
+ ### [YouTube Demonstration](https://youtu.be/aYji5ssTIKU)
 
 <h2>Description</h2>
 Project consists of setting up all the prerequisites and installing osTicket from scratch. This was done on a Windows 10 Virtual Machine I created in Azure. osTicket is a widely used and trusted open source Help Desk ticketing system. <br/>
